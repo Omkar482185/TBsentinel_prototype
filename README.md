@@ -1,4 +1,4 @@
-# TBSentinel
+<img width="1920" height="1080" alt="Screenshot 2026-10-20 185137" src="https://github.com/user-attachments/assets/b6739197-e3b7-4fee-9e15-24ca0da03ed0" /># TBSentinel
 
 ### Federated Multimodal AI for Early Tuberculosis Detection and Assessment
 
@@ -20,7 +20,7 @@ The proposed system combines chest X-ray images, clinical notes, and structured 
 
 The initial interface was designed in Figma to establish the proposed user experience and workflows.
 
-**Figma prototype:** [Open the TBSentinel design](prototype/[figma-link](https://www.figma.com/proto/6XBeY936Mw49Q3QZ9l5iB7/TBSentinel-Prototype?node-id=1005-259&t=dgQWYqgVWR68a4T6-1).md)
+**Figma prototype:** [[Open the TBSentinel design](https://www.figma.com/proto/6XBeY936Mw49Q3QZ9l5iB7/TBSentinel-Prototype?node-id=1005-259&t=dgQWYqgVWR68a4T6-1)](prototype/[figma-link](https://www.figma.com/proto/6XBeY936Mw49Q3QZ9l5iB7/TBSentinel-Prototype?node-id=1005-259&t=dgQWYqgVWR68a4T6-1).md)
 
 ### Design Preview
 
