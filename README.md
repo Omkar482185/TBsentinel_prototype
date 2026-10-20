@@ -20,13 +20,13 @@ The proposed system combines chest X-ray images, clinical notes, and structured 
 
 The initial interface was designed in Figma to establish the proposed user experience and workflows.
 
-**Figma prototype:** [Open the TBSentinel design](prototype/figma-link.md)
+**Figma prototype:** [Open the TBSentinel design](prototype/[figma-link](https://www.figma.com/proto/6XBeY936Mw49Q3QZ9l5iB7/TBSentinel-Prototype?node-id=1005-259&t=dgQWYqgVWR68a4T6-1).md)
 
 ### Design Preview
 
 <!-- Replace these example filenames with your actual screenshot filenames. -->
 
-![TBSentinel Dashboard](docs/screenshots/dashboard.png)
+![TBSentinel Dashboard](TBsentinel_prototype/dashboard.png)
 
 ![TBSentinel Analysis Interface](docs/screenshots/analysis-screen.png)
 
