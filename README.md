@@ -22,15 +22,6 @@ The initial interface was designed in Figma to establish the proposed user exper
 
 **Figma prototype:** [[Open the TBSentinel design](https://www.figma.com/proto/6XBeY936Mw49Q3QZ9l5iB7/TBSentinel-Prototype?node-id=1005-259&t=dgQWYqgVWR68a4T6-1)]
 
-### Design Preview
-
-<!-- Replace these example filenames with your actual screenshot filenames. -->
-
-![TBsentinel-Dashboard](<img width="1920" height="1080" alt="dashboard" src="https://github.com/user-attachments/assets/eabb0350-906a-4fe7-8155-a604faa52dd6" />
-)
-
-![TBsentinel-Result](<img width="1920" height="1080" alt="result" src="https://github.com/user-attachments/assets/3e12a3ac-4e6d-4fbb-a802-b6442c0c905e" />
-)
 
 ## Proposed System Architecture
 
