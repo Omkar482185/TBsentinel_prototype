@@ -26,11 +26,11 @@ The initial interface was designed in Figma to establish the proposed user exper
 
 <!-- Replace these example filenames with your actual screenshot filenames. -->
 
-![<img width="1920" height="1080" alt="dashboard" src="https://github.com/user-attachments/assets/8d901b20-96da-4a1d-ae26-26ae1b241683" />
-](TBsentinel_prototype/dashboard.png)
+![TBsentinel-Dashboard](<img width="1920" height="1080" alt="dashboard" src="https://github.com/user-attachments/assets/eabb0350-906a-4fe7-8155-a604faa52dd6" />
+)
 
-![<img width="1920" height="1080" alt="result" src="https://github.com/user-attachments/assets/5ea3f83d-b967-45e3-9417-4a3b7be7bbb7" />
-](docs/screenshots/analysis-screen.png)
+![TBsentinel-Result](<img width="1920" height="1080" alt="result" src="https://github.com/user-attachments/assets/3e12a3ac-4e6d-4fbb-a802-b6442c0c905e" />
+)
 
 ## Proposed System Architecture
 
